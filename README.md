@@ -21,7 +21,7 @@ Hi there, I'm Yulia Kuderko 👋
 <br/>
 
 
-## 🛠️ Tech Stack
+## Tech Stack 🛠️
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
@@ -39,7 +39,7 @@ Hi there, I'm Yulia Kuderko 👋
 <br/>
 
 
-## 📈 GitHub Activity Graph
+## GitHub Activity Graph 📈
 <table>
     <tr>
         <td align="center"><a href="https://github.com/YuliaKuderko#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=yuliakuderko&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/YuliaKuderko#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=yuliakuderko&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
@@ -51,7 +51,7 @@ Hi there, I'm Yulia Kuderko 👋
 </table>
 
 
-## 💌 Let's Connect
+## Let's Connect 💌
 <p align="center">
 	<a href="https://github.com/YuliaKuderko" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/yulia-kuderko-6936481b2/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
