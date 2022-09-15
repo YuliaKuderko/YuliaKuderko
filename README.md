@@ -51,7 +51,7 @@ Hi there, I'm Yulia Kuderko 👋
 </table>
 
 
-## Connect with me
+## 💌 Let's Connect
 <p align="center">
 	<a href="https://github.com/YuliaKuderko" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/yulia-kuderko-6936481b2/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
